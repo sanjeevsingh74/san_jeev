@@ -1,4 +1,4 @@
-- 👋 Hi,sanjeevsingh74
+- 👋 Hi
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on 

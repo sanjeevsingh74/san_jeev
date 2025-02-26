@@ -64,3 +64,9 @@ A collection of interactive dashboards created using Tableau and Power BI to vis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sanjeev-kumar-075907264)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Site-blue)](https://yourwebsite.com)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanjeev) - https://www.hackerrank.com/profile/sanjeev
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://purvaphalak.github.io/)- https://github.com/sanjeev74
+

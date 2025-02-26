@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves turning da
 - 🌱 I’m currently learning advanced machine learning techniques
 - 👯 I’m looking to collaborate on data science and analytics projects
 - 💬 Ask me about data visualization, statistical analysis, and Python
-- 📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)
+- 📫 How to reach me: [sanjeevsingh074.com](sanjeevsingh074.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and solving puzzles
 

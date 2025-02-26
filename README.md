@@ -68,5 +68,6 @@ A collection of interactive dashboards created using Tableau and Power BI to vis
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sanjeev) - https://www.hackerrank.com/profile/sanjeev
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://purvaphalak.github.io/)- https://github.com/sanjeev74
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://purvaphalak.github.io/)- https://github.com/sanjeevsingh74
+
 

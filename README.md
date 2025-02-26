@@ -2,13 +2,19 @@
 
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
+
 **Welcome to my GitHub profile!** I'm a **Aspiring Data Analyst** who loves turning data into actionable insights and contributing to open-source data projects.
+
 
 🚀 **Data Analyst | SQL | Python | Power BI | Business Intelligence**  
 
+
 🔍 **Turning Data into Actionable Insights to Drive Business Growth**  
 
-With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I specialize in extracting meaningful insights from raw data to support data-driven decision-making. Passionate about **problem-solving, analytics, and business intelligence**, I aim to transform complex datasets into clear, strategic solutions.  
+
+With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I specialize in extracting meaningful insights from raw data to support data-driven 
+
+decision-making. Passionate about **problem-solving, analytics, and business intelligence**, I aim to transform complex datasets into clear, strategic solutions.  
 
 🌱 Currently advancing my expertise in **Advanced SQL, Predictive Analytics, and Data Storytelling** to stay ahead in the ever-evolving analytics landscape.  
 
@@ -18,7 +24,8 @@ With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I
 
 <h4>Data Analyst | SQL & Python Enthusiast | BI & Visualization Expert | Insight-Driven Storyteller</h4>
 
-<h4>Passionate about transforming raw data into actionable insights to drive decision-making. My journey in data analytics is fueled by curiosity, problem-solving, and a keen eye for patterns hidden within data.</h4>
+<h4>Passionate about transforming raw data into actionable insights to drive decision-making. My journey in data analytics is fueled by curiosity, problem-
+solving, and a keen eye for patterns hidden within data.</h4>
 
 <h4>I believe that data speaks volumes, and my goal is to decode its language using SQL, Python, Power BI, and Tableau. Every dataset is an opportunity to learn, experiment, and innovate.</h4>
 
@@ -64,7 +71,9 @@ With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I
 
 
 🌱 **Currently Enhancing My Skills In:**  
-- Advanced **Data Analytics, Predictive Modeling, and Data Storytelling.**  
+
+- Advanced **Data Analytics, Predictive Modeling, and Data Storytelling.**
+  
 - Exploring **Machine Learning and Business Analytics** to stay ahead in the field.  
 
 💡 **Looking for opportunities** to apply my analytical skills, collaborate with dynamic teams, and contribute to impactful data-driven solutions.  .*

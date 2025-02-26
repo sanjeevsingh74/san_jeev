@@ -1,6 +1,21 @@
-# Hi there, I'm Sanjeev Kumar! 👋
+# Hi there, I'm Sanjeev ! 👋
+
+𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
 **Welcome!to my GitHub profile!** I'm a **passionate data analyst** who loves turning data into actionable insights and contributing to open-source data projects.
+
+🚀 **Data Analyst | SQL | Python | Power BI | Business Intelligence**  
+
+🔍 **Turning Data into Actionable Insights to Drive Business Growth**  
+
+With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I specialize in extracting meaningful insights from raw data to support data-driven decision-making. Passionate about **problem-solving, analytics, and business intelligence**, I aim to transform complex datasets into clear, strategic solutions.  
+
+🌱 Currently advancing my expertise in **Advanced SQL, Predictive Analytics, and Data Storytelling** to stay ahead in the ever-evolving analytics landscape.  
+
+💡 Looking for opportunities to apply my analytical skills and collaborate with dynamic teams to create impactful solutions.  
+
+📊 Let’s connect and harness the power of data together!  
+
 
 ## 🚀 About Me
 

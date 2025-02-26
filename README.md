@@ -12,9 +12,6 @@ With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I
 
 🌱 Currently advancing my expertise in **Advanced SQL, Predictive Analytics, and Data Storytelling** to stay ahead in the ever-evolving analytics landscape.  
 
-💡 Looking for opportunities to apply my analytical skills and collaborate with dynamic teams to create impactful solutions.  
-
-📊 Let’s connect and harness the power of data together!  
 
 
 ## 🚀 About Me
@@ -66,11 +63,13 @@ With a strong foundation in **SQL, Python, Power BI, and Data Visualization**, I
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevsingh74&layout=compact&theme=radical)
 
 
-🔭 I’m currently working on - *Data Science & Machine Learning.*
+🌱 **Currently Enhancing My Skills In:**  
+- Advanced **Data Analytics, Predictive Modeling, and Data Storytelling.**  
+- Exploring **Machine Learning and Business Analytics** to stay ahead in the field.  
 
-🌱 I’m currently learning - *Deep learning, NLP, Computer Vision & Full-Stack web development.*
+💡 **Looking for opportunities** to apply my analytical skills, collaborate with dynamic teams, and contribute to impactful data-driven solutions.  .*
 
-👯 I’ve recently worked with start-up companies like - *mywbut.com as Campus Representative*
+👯 I’ve love to  work with start-up companies .*
 
 😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.*
 

@@ -2,7 +2,7 @@
 
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
-**Welcome to my GitHub profile!** I'm a **passionate data analyst** who loves turning data into actionable insights and contributing to open-source data projects.
+**Welcome to my GitHub profile!** I'm a **Aspiring Data Analyst** who loves turning data into actionable insights and contributing to open-source data projects.
 
 🚀 **Data Analyst | SQL | Python | Power BI | Business Intelligence**  
 

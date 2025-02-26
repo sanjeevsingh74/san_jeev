@@ -50,6 +50,6 @@ A collection of interactive dashboards created using Tableau and Power BI to vis
 - My website <a href="https://sanjeevkumar.com/">sanjeevkumar.com</a> 📹 ✍🏾
 - My updates in <a href="https://twitter.com/sanjeev18">Twiiter</a> 💬</h5>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sanjeevsingh74)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/sanjeevsingh74)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sanjeev-kumar-075907264)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Site-blue)](https://yourwebsite.com)

@@ -25,14 +25,6 @@
 
 
 
-## 📊 GitHub Stats
-
-![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevsingh74&show_icons=true&theme=radical)
-
-## 🛠️ Technologies & Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevsingh74&layout=compact&theme=radical)
-
 ## Languages and Tools:
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -46,16 +38,26 @@
 - Tableau
 - Power BI
 
-## 📂 Featured Projects
 
-### [Customer Segmentation Analysis](https://github.com/sanjeevsingh74/customer-segmentation-analysis)
-A project that uses clustering techniques to identify distinct customer segments based on purchasing behavior.
 
-### [Sales Forecasting](https://github.com/sanjeevsingh74/sales-forecasting)
-A time series analysis project to forecast future sales using ARIMA and Prophet models.
+  ## 📊 GitHub Stats
 
-### [Data Visualization Dashboards](https://github.com/sanjeevsingh74/data-visualization-dashboards)
-A collection of interactive dashboards created using Tableau and Power BI to visualize key business metrics.
+![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevsingh74&show_icons=true&theme=radical)
+
+
+
+## 🛠️ Technologies & Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevsingh74&layout=compact&theme=radical)
+
+
+🔭 I’m currently working on - *Data Science & Machine Learning.*
+
+🌱 I’m currently learning - *Deep learning, NLP, Computer Vision & Full-Stack web development.*
+
+👯 I’ve recently worked with start-up companies like - *mywbut.com as Campus Representative*
+
+😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.*
 
 <h5>Reach me on:
   

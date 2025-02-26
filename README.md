@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjeev Kumar! 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst who loves turning data into actionable insights and contributing to open-source data projects.
+**Welcome!to my GitHub profile!** I'm a **passionate data analyst** who loves turning data into actionable insights and contributing to open-source data projects.
 
 ## 🚀 About Me
 

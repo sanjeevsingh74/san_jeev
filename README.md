@@ -85,7 +85,7 @@ solving, and a keen eye for patterns hidden within data.</h4>
 <h5>Reach me on:
   
 - My profile in <a href="https://www.linkedin.com/in/sanjeev-kumar-075907264">LinkedIn</a> 💼 
-- My website <a href="https://sanjeevkumar.com/">sanjeevkumar.com</a> 📹 ✍🏾
+# - My website <a href="https://sanjeevkumar.com/">sanjeevkumar.com</a> 📹 ✍🏾
 - My updates in <a href="https://twitter.com/sanjeev18">Twiiter</a> 💬</h5>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sanjeev-kumar-075907264)

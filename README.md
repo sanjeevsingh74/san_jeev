@@ -91,7 +91,7 @@ solving, and a keen eye for patterns hidden within data.</h4>
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Site-blue)](https://yourwebsite.com)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]https://www.hackerrank.com/profile/sanjeevkumar_la1) -https://www.hackerrank.com/profile/sanjeevkumar_la1
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]https://www.hackerrank.com/profile/sanjeevkumar_la1)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://purvaphalak.github.io/)- https://github.com/sanjeevsingh74
